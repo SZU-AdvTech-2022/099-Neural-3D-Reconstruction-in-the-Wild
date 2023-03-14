@@ -1,4 +1,4 @@
-@inproceedings{REPO-100,
+@inproceedings{REPO-099,
     author = "Sun, Jiaming and Chen, Xi and Wang, Qianqian and Li, Zhengqi and Averbuch-Elor, Hadar and Zhou, Xiaowei and Snavely, Noah",
     booktitle = "SIGGRAPH Conference Proceedings",
     title = "{Neural {3D} Reconstruction in the Wild}",
